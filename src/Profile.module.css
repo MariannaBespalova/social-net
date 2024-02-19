@@ -1,0 +1,8 @@
+.content {
+    grid-area: content;
+}
+
+.top-img img {
+    height: 271px;
+    width: 100%;
+}
